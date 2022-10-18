@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DAM_Lab08.CssDemo">
+    
+    <ContentPage.Resources>
+        <StyleSheet Source="/Assets/style.css" />
+    </ContentPage.Resources>
+    <StackLayout StyleClass="header">
+        <Label Text="CSS in Xamarin.Forms" />
+        <Entry />
+        <Button StyleId="myButton" Text="CSS" />
+    </StackLayout>
+
+</ContentPage>

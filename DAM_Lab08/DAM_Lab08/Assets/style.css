@@ -1,0 +1,24 @@
+﻿
+^ContentPage {
+    background-color: papayawhip;
+}
+
+.header {
+    color: deepskyblue;
+    font-size: large;
+    text-align: center;
+    margin: 20;
+}
+
+entry {
+    color: blue;
+    text-align: left;
+    padding: 10;
+}
+
+#myButton {
+    background-color: aquamarine;
+    color: blue;
+}
+
+
